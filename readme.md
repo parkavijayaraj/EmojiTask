@@ -1,0 +1,1 @@
+getting emoji details using api using promise and html,css,js

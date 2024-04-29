@@ -1,0 +1,29 @@
+.container{
+    color:white;
+  margin: 2%;
+
+}
+.card{
+    border-radius: 10px !important;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+    margin-bottom: 10px !important;
+}
+.tittle{
+    color: rgb(53, 39, 11);
+    background: radial-gradient(circle, rgba(148,187,233,1) 14%, rgba(224,174,238,1) 66%);
+}
+
+.emoji{
+    font-size: 70px !important;
+}
+
+.card-body{
+    padding-bottom: 50px impot !important;
+    display: flex;
+    flex-direction: column;
+    line-height: 65px;
+    align-items: center;
+}
+.col-sm-6{
+    margin-top: 1em !important;
+}
